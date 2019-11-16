@@ -1,5 +1,38 @@
+/* body {
+    background-image: url("assets\images\newBlackBackground1.JPG");
+  } */
 h1 {
-    color: blue;
-    background-color: cadetblue;
-    text-align: center;
+    color:white;
+    /* font-size: medium; */
+    
+    background-color: rgb(78, 177, 179);
+    
+    /* border: cadetblue; */
+    /* border: "60px" */
+    /* text-align: center; */
+    padding-left: "20px";
+    float: left;
+    
 }
+.nameI {
+    height: "30px";
+    width: "70px";
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+  }
+  
+  li {
+    
+    display: inline;
+    
+  }
+
+  
+
+  
+  
