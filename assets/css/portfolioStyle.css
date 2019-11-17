@@ -3,20 +3,17 @@
     background:url(/assets/images/black-wallpaper-6.jpg); 
     background-repeat:no-repeat;
     background-size: 100%;
-    /* background-size: 1760px 1200px;  */
-    /* width height */
+  
     
 }
 h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     color:white;
-    /* font-size: medium; */
+  
     
     background-color:rgba(0, 0, 0, 0.534);
     
-    /* border: cadetblue; */
-    /* border: "60px" */
-    /* text-align: center; */
+    
     padding-left: "20px";
     float: left;
     padding-left: 100px;
@@ -26,9 +23,10 @@ h2 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 200%;
     padding-left: 10px;
-    padding-top: 20px;
+    padding-top: 30px;
     color: white;;
 }
+
 
 .nameI {
     height: "30px";
@@ -50,24 +48,89 @@ ul {
     display: inline;
     
   }
+  .boxSet {
+    
+      
+    width: 100%;
+    align-content: center;
 
-  .row1 {
-      padding-top: 100px;
-      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-      color: white;
-      font-size: 150%;
   }
 
-  .row2 {
-    padding-top: 100px;
-    padding-left: 120px;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: white;      
-    font-size: 150%;
-
+.box-1 {
+    position: relative;
     
+    float:left;
+    width: 45%; 
 }
+.box-1 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}
+
+.box-2 {
+    float:left;
+    width: 45%;
+    
+
+}
+.box-2 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}
+.box-3 {
+    float:left;
+    width: 45%;
+
+
+}
+.box-3 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}
+.box-4 {
+    float:left;
+    width: 45%;
+
+
+}
+.box-4 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}
+
+.box-5 span {
+    
+    color: white;
+    /* position: absolute; */
+    right: 10px;
+    top: 10px;
+    font-size: 25px;
+
+}
+
+  
 footer {
+    
     position: relative;
     left: 0;
     bottom: 0;

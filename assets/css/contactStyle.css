@@ -1,22 +1,19 @@
 
   body{
-    background:url(/assets/images/black-wallpaper-6.jpg); 
+    background:url(/assets/images/black-wallpaper-6.jpg);  
     background-repeat:no-repeat;
     background-size: 100%;
-    /* background-size: 1760px 1200px;  */
-    /* width height */
+
     
 }
 h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     color:white;
-    /* font-size: medium; */
+  
     
     background-color:rgba(0, 0, 0, 0.534);
     
-    /* border: cadetblue; */
-    /* border: "60px" */
-    /* text-align: center; */
+    
     padding-left: "20px";
     float: left;
     padding-left: 100px;
@@ -26,6 +23,13 @@ h2 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 200%;
     padding-left: 10px;
+    padding-top: 30px;
+    color: white;;
+}
+h3 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 150%;
+    padding-left: 20px;
     padding-top: 20px;
     color: white;;
 }
@@ -50,24 +54,15 @@ ul {
     display: inline;
     
   }
-
-  .row1 {
-      padding-top: 100px;
-      font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-      color: white;
-      font-size: 150%;
+  .submitBox {
+      padding-left: 50px;
+      width: 70%;
+      text-align: left;
   }
 
-  .row2 {
-    padding-top: 100px;
-    padding-left: 120px;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: white;      
-    font-size: 150%;
-
-    
-}
+  
 footer {
+    padding-top: "20px";
     position: relative;
     left: 0;
     bottom: 0;
