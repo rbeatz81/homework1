@@ -3,20 +3,26 @@
     background:url(/assets/images/black-wallpaper-6.jpg); 
     background-repeat:no-repeat;
     background-size: 100%;
-    /* background-size: 1760px 1200px;  */
-    /* width height */
     
+    
+}
+a.imgLink1{
+  color:black; text-decoration: none;
+}
+a.imgLink2{
+  color:black; text-decoration: none;
+}
+a.imgLink3{
+  color:black; text-decoration: none;
 }
 h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     color:white;
-    /* font-size: medium; */
+    
     
     background-color:rgba(0, 0, 0, 0.534);
     
-    /* border: cadetblue; */
-    /* border: "60px" */
-    /* text-align: center; */
+    
     padding-left: "20px";
     float: left;
     padding-left: 100px;

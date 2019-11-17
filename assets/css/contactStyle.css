@@ -6,6 +6,16 @@
 
     
 }
+a.imgLink1{
+    color:black; text-decoration: none;
+  }
+  a.imgLink2{
+    color:black; text-decoration: none;
+  }
+  a.imgLink3{
+    color:black; text-decoration: none;
+  }
+  
 h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     color:white;
